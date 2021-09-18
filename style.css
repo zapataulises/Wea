@@ -1,0 +1,10 @@
+.raiz{
+ background-color: bisque;
+}
+th{
+    background-color: aquamarine;
+}
+td{
+    border: solid black 1px;
+    padding: 0;
+}
